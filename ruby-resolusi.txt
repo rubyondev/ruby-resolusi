@@ -3,4 +3,4 @@ RESOLUSI
 - Resolusi dua
 - Resolusi tiga
 - Resolusi empat
-dst..
+- Resolusi kelima
