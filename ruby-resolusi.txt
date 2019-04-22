@@ -1,6 +1,6 @@
 RESOLUSI
 - Resolusi satu
-- Resolusi dua
 - Resolusi tiga
 - Resolusi empat
 - Resolusi kelima
+- Resolusi keenam
